@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Totally Accurate RPG Fantasy Game",
+"productVersion": "1.0",
+"dataUrl": "ProjBuild.data.unityweb",
+"wasmCodeUrl": "ProjBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "ProjBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
